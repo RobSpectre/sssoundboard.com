@@ -26,7 +26,7 @@
     "tailwind-merge": "^2.6.0",
     "vaul-vue": "^0.2.0",
     "vue": "^3.5.13",
-    "vue-gtag": "^2.0.1"
+    "vue-gtag": "2.0.1"
   },
   "devDependencies": {
     "@testing-library/jest-dom": "^6.6.3",
